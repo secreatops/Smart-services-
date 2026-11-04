@@ -1,0 +1,6 @@
+{
+  "name": "SMART SERVICES",
+  "description": "Professional AC, Geyser, and Electrical repair and installation services at your doorstep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+:root {
+  --primary-navy: #102A43;
+  --secondary-blue: #168BEB;
+  --accent-light: #EAF5FF;
+  --text-dark: #273444;
+}
